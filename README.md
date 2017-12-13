@@ -1,1 +1,12 @@
-# 07_agenda
+# #7 CRUD with Controller, View and Model (MVC)
+
+Today we continue with what we did last time
+
+* [#6 CRUD with Controller, View and Model (MVC)](https://github.com/StudentsAdministration/06_agenda/master/README.md)
+
+## More specific
+
+* ad topics here
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
