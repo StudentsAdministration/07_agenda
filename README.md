@@ -2,7 +2,7 @@
 
 Today we continue with what we did last time
 
-* [#6 CRUD with Controller, View and Model (MVC)](https://github.com/StudentsAdministration/06_agenda/master/README.md)
+* [#6 CRUD with Controller, View and Model (MVC)](https://github.com/StudentsAdministration/06_agenda/blob/master/README.md)
 
 ## More specific
 
