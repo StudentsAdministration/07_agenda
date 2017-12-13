@@ -6,7 +6,7 @@ Today we continue with what we did last time
 
 ## More specific
 
-* ad topics here
+* add topics here
 
 
 _<div align="right">&copy; clbo@kea.dk</div>_
